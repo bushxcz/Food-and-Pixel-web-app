@@ -21,7 +21,6 @@ Built with **React + Tailwind CSS**, spiced up with animations, and powered by a
 <img width="1920" height="877" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/eaa63194-313d-4022-92db-25036eb24b65" />
 
 
-
 ##🌍 Live Demo
 
 https://bushxcz.github.io/Food-and-Pixel-web-app/
